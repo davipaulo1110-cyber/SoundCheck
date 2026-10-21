@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" rx="24" fill="#0d1a2b"/>
+  <text x="30" y="45" fill="#5ee7df" font-family="Arial" font-size="14" font-weight="700">OUVIDOLAB • ASSET SVG</text>
+  <path d="M155 70C70 90 65 210 115 275c35 45 105 30 108-25 2-37-40-28-43-64-4-43 45-50 39-89-6-37-30-39-64-27Z" fill="#e99ab2" stroke="#f5b5c8" stroke-width="6"/>
+  <path d="M230 180c45-12 74 4 103 21v48c-36 15-75 16-108 3-20-9-21-50 5-72Z" fill="#8d6480" stroke="#f08bb1" stroke-width="5"/>
+  <ellipse cx="340" cy="224" rx="14" ry="39" fill="#d9a3bb" stroke="#5ee7df" stroke-width="4"/>
+  <path d="M355 205l45-36 17 17-33 39 33 38-17 16-45-39Z" fill="#9a7a8b" stroke="#5ee7df" stroke-width="4"/>
+  <path d="M468 225c45-48 96-3 72 45-25 49-88 31-82-8 4-28 42-25 40 2" fill="none" stroke="#5ee7df" stroke-width="12" stroke-linecap="round"/>
+  <path d="M510 220c-15-65 45-86 60-42 12 34-11 55-31 58" fill="none" stroke="#7c83ff" stroke-width="7"/>
+  <path d="M542 253l47 25" stroke="#7c83ff" stroke-width="15" stroke-linecap="round"/>
+</svg>

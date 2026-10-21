@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650">
+  <title>OuvidoLab — anatomia do ouvido</title>
+  <desc>Representação educativa simplificada do ouvido humano para uso no projeto OuvidoLab.</desc>
+  <path d="M172 112 C89 114 58 198 83 270 C98 314 118 326 101 375 C78 442 119 526 192 508 C251 493 255 422 224 370 C203 334 211 298 244 270 C288 232 270 103 172 112Z" fill="#d88a8b" stroke="#ffb8aa" stroke-width="7"/>
+  <path d="M220 260 C286 245 344 252 394 276 C421 289 433 315 425 339 C417 364 393 375 364 365 L220 331Z" fill="#75bf72" stroke="#baffbd" stroke-width="5"/>
+  <ellipse cx="425" cy="322" rx="31" ry="58" fill="#ff9ebd" stroke="#ffd0e0" stroke-width="5"/>
+  <path d="M440 263 L453 272 L468 311 L458 348 L447 343 L451 310 L433 285Z" fill="#e8eaff"/>
+  <path d="M466 296 L494 291 L508 306 L493 321 L473 317 L461 332 L451 322Z" fill="#d5dcff"/>
+  <path d="M505 304 Q529 292 542 306 Q532 321 513 319 M514 319 L521 337" fill="none" stroke="#c7d2ff" stroke-width="7"/>
+  <ellipse cx="523" cy="345" rx="10" ry="15" fill="#ffb0d0"/>
+  <path d="M565 255 C514 274 508 348 548 389 C583 425 650 410 672 365 C698 312 666 253 615 251 C591 250 573 261 565 277Z" fill="#6856df" stroke="#a8a1ff" stroke-width="7"/>
+  <path d="M557 267 C520 211 548 145 599 151 C636 156 639 207 612 233 M582 250 C603 187 665 183 676 229 C682 254 663 277 641 286" fill="none" stroke="#aa9cff" stroke-width="12" stroke-linecap="round"/>
+  <path d="M670 267 C735 242 791 232 850 220 M666 350 C731 367 792 382 856 402" fill="none" stroke="#48dfff" stroke-width="12" stroke-linecap="round"/>
+</svg>
